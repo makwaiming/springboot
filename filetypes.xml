@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="dep1" type="PLAIN_TEXT" />
+      <mapping pattern="staging" type="PLAIN_TEXT" />
+      <mapping pattern="abc" type="PLAIN_TEXT" />
+      <mapping pattern="sslException" type="PLAIN_TEXT" />
+      <mapping pattern="before" type="PLAIN_TEXT" />
+      <mapping pattern="test1" type="XML" />
+      <mapping pattern="temp" type="XML" />
+    </extensionMap>
+  </component>
+</application>
