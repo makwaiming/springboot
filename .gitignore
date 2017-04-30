@@ -2,3 +2,6 @@
 .idea
 /OmegaCommonsUtil/OmegaCommonsUtil.iml
 /OmegaCommons/OmegaCommons.iml
+/OmegaConnect/OmegaConnect.iml
+*.jar
+
