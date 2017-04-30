@@ -1,0 +1,35 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'OmegaApps'" />
+    <option name="defaultScopeName" value="Project 'OmegaApps'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'OmegaApps'" />
+    <recentFileMasks>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.java,*.jsp</mask>
+      <mask>St*.properties</mask>
+      <mask>*Test*.java</mask>
+      <mask>*.html</mask>
+      <mask>*.xml,*.properties</mask>
+      <mask>*.properties</mask>
+      <mask>*Test.java</mask>
+      <mask>*.PROPERTIES</mask>
+      <mask>*ProcessorImpl.java</mask>
+      <mask>*.*</mask>
+      <mask>*.ftl</mask>
+      <mask>pom.xml</mask>
+      <mask>Statsd*.java</mask>
+      <mask>BetConstructController.java</mask>
+      <mask>*.css</mask>
+      <mask>*.java</mask>
+      <mask>*.jsp</mask>
+      <mask>*.sql</mask>
+      <mask>*.xml</mask>
+      <mask>Do*.java</mask>
+      <mask>*.SQL</mask>
+    </recentFileMasks>
+  </component>
+</application>
