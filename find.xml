@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'OmegaApps'" />
-    <option name="FILE_MASK" value="*Deposit*Handler.java" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -32,8 +32,8 @@
       <mask>*.xml</mask>
       <mask>Do*.java</mask>
       <mask>*.SQL</mask>
-      <mask>*.java</mask>
       <mask>*Deposit*Handler.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
