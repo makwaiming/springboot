@@ -1403,7 +1403,8 @@
       </map>
     </option>
   </component>
-  <component name="WebServicesPluginSettings" SelectedPlatform="Apache Axis" SelectedBinding="ADB" PathToXFire="$USER_HOME$/dev/java/apache-cxf-3.1.4" PathToAxis2="$USER_HOME$/dev/java/axis2-idea-plugin-1.7.0">
+  <component name="WebServicesPluginSettings" SelectedPlatform="CXF" SelectedBinding="JAXB 2.0" PathToXFire="$USER_HOME$/dev/java/apache-cxf-3.1.4" PathToAxis2="$USER_HOME$/dev/java/axis2-idea-plugin-1.7.0">
+    <StubPackage>com.omega.commons.payments.moneysafe</StubPackage>
     <StubPackage>com.omega.commons.payments.epaycode.gendvtis</StubPackage>
     <StubPackage>com.omega.commons.payments.alliedwallet</StubPackage>
     <StubPackage>com.omega.commons.payments.alliedwallet.gen</StubPackage>
@@ -1420,6 +1421,8 @@
     <StubPackage>com.omega.commons.integration.netent.gen1</StubPackage>
     <StubPackage>com.omega.commons.payments.envoy.test</StubPackage>
     <StubPackage>com.omega.commons.integration.netent.gen</StubPackage>
+    <StubUrl>https://ucs.cardnetgate.com/ws/api/PayCardTransactionsService.asmx?WSDL</StubUrl>
+    <StubUrl>https://ucs.cardnetgate.com/ws/api/PayCardTransactionsService.asmx</StubUrl>
     <StubUrl>https://services.dvtis.com/WebApi/dev/WSCommerce?wsdl</StubUrl>
     <StubUrl>file://$USER_HOME$/dev/trunk/OmegaApps/OmegaCommons/src/main/java/com/omega/commons/payments/alliedwallet/alliedwallet.wsdl</StubUrl>
     <StubUrl>file://$USER_HOME$/dev/trunk/OmegaApps/OmegaTron/src/soapUi/NetEntWalletServer3_0.wsdl</StubUrl>
