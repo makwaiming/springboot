@@ -3,6 +3,7 @@
     <option name="customScope" value="Project 'OmegaApps'" />
     <option name="defaultScopeName" value="Project 'OmegaApps'" />
     <option name="SEARCH_SCOPE" value="Project 'OmegaApps'" />
+    <option name="FILE_MASK" value="*.SQL" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -25,10 +26,10 @@
       <mask>*.jsp</mask>
       <mask>Do*.java</mask>
       <mask>*Deposit*Handler.java</mask>
-      <mask>*.SQL</mask>
       <mask>*.xml</mask>
       <mask>*.sql</mask>
       <mask>*.java</mask>
+      <mask>*.SQL</mask>
     </recentFileMasks>
   </component>
 </application>
