@@ -4,9 +4,12 @@
     <option name="defaultScopeName" value="Project 'OmegaApps'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'OmegaApps'" />
+    <option name="FILE_MASK" value="*Test.java" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -30,10 +33,10 @@
       <mask>*.SQL</mask>
       <mask>*TEST.java</mask>
       <mask>*.java</mask>
-      <mask>*Test.java</mask>
       <mask>*.sql</mask>
       <mask>*.jsp</mask>
       <mask>*.html</mask>
+      <mask>*Test.java</mask>
     </recentFileMasks>
   </component>
 </application>
