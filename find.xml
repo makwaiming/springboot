@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'OmegaApps'" />
-    <option name="FILE_MASK" value="*Hibernate.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -25,7 +25,6 @@
       <mask>*.css</mask>
       <mask>Do*.java</mask>
       <mask>*Deposit*Handler.java</mask>
-      <mask>*.xml</mask>
       <mask>*TEST.java</mask>
       <mask>*.java</mask>
       <mask>*.sql</mask>
@@ -34,6 +33,7 @@
       <mask>*Test.java</mask>
       <mask>*.SQL</mask>
       <mask>*Hibernate.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
