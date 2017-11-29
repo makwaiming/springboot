@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'OmegaApps'" />
     <option name="defaultScopeName" value="Project 'OmegaApps'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'OmegaApps'" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -26,7 +24,6 @@
       <mask>Do*.java</mask>
       <mask>*Deposit*Handler.java</mask>
       <mask>*TEST.java</mask>
-      <mask>*.java</mask>
       <mask>*.sql</mask>
       <mask>*.jsp</mask>
       <mask>*.html</mask>
@@ -34,6 +31,7 @@
       <mask>*.SQL</mask>
       <mask>*Hibernate.java</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
