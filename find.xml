@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'OmegaApps'" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -27,7 +28,6 @@
       <mask>Do*.java</mask>
       <mask>*Deposit*Handler.java</mask>
       <mask>*TEST.java</mask>
-      <mask>*.sql</mask>
       <mask>*.jsp</mask>
       <mask>*.html</mask>
       <mask>*Test.java</mask>
@@ -35,6 +35,7 @@
       <mask>*Hibernate.java</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
