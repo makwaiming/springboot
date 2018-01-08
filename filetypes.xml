@@ -7,6 +7,7 @@
       <mapping pattern="abc" type="PLAIN_TEXT" />
       <mapping pattern="sslException" type="PLAIN_TEXT" />
       <mapping pattern="before" type="PLAIN_TEXT" />
+      <mapping ext="dacpac" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="XML" />
       <mapping pattern="temp" type="XML" />
     </extensionMap>
