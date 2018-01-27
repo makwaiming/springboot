@@ -3,11 +3,9 @@
     <option name="customScope" value="Project 'OmegaApps'" />
     <option name="defaultScopeName" value="Project 'OmegaApps'" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'OmegaApps'" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.JAVA" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -36,6 +34,7 @@
       <mask>*.java</mask>
       <mask>*TEST.java</mask>
       <mask>*.sql</mask>
+      <mask>*.JAVA</mask>
     </recentFileMasks>
   </component>
 </application>
